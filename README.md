@@ -16,7 +16,7 @@ This repository contains programs of my youtube channel [Kurzgeschichten in Java
 
 |Verzeichnis|Themen|Video (aufs Bild draufklicken)|
 |:---|:---|:---:|
-|Pizza, Kebap und Getränke| *Vererbung*|<a href="http://www.youtube.com/watch?v=dDfRkwtjucs"><img src="images/001.png" align="left" style="width: 300px; height: auto;"></a>|
+|Pizza, Kebap und Getränke| *Vererbung, toString()*|<a href="https://youtu.be/wxRMjYUERSs"><img src="images/001-005.png" align="left" style="width: 300px; height: auto;"></a>|
 
 
 # Have fun with all that stuff!
